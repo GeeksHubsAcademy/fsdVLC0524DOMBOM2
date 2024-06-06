@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    padding: 0;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: beige;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-basic {
+    height: 3em;
+    width: 25em;
+
+    border-radius: 1em;
+
+    border: 0.2em solid blue;
+
+    margin: 2em;
+}
